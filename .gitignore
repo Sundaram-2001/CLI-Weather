@@ -1,0 +1,12 @@
+# Binaries
+/weather
+/weather.exe
+*.out
+
+
+# Env files
+.env
+
+# Test cache
+*.test
+
