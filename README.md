@@ -4,7 +4,7 @@ A minimal command-line application built in Go that fetches and displays real-ti
 
 ---
 
-##built using:
+## 🛠️ Built Using
 
-Golang
-Openweathermap API
+- [Golang](https://golang.org/)
+- [OpenWeatherMap API](https://openweathermap.org/api)
