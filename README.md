@@ -14,6 +14,7 @@ A minimal command-line application built in Go that fetches and displays real-ti
   - Weather description
   - Min/Max temperature (°C)
   - Wind speed
+- 🎨 Optional `--pretty` flag for formatted output
 - 🧪 Simple CLI flag parsing using Go’s `flag` package
 - 🧱 Clean modular Go project structure
 
