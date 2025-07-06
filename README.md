@@ -4,26 +4,7 @@ A minimal command-line application built in Go that fetches and displays real-ti
 
 ---
 
-## 📦 Features
+##built using:
 
-- 🔐 Loads API key securely from `.env`
-- 🌍 Supports ZIP and country code as input (`--zip`, `--country`)
-- 📍 Converts ZIP to lat/lon using OpenWeather Geocoding API
-- 🌤️ Displays:
-  - City name
-  - Weather description
-  - Min/Max temperature (°C)
-  - Wind speed
-- 🎨 Optional `--pretty` flag for formatted output
-- 🧪 Simple CLI flag parsing using Go’s `flag` package
-- 🧱 Clean modular Go project structure
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/weather-cli.git
-cd weather-cli
+Golang
+Openweathermap API
